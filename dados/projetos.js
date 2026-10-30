@@ -75,7 +75,7 @@ window.PROJETOS = [
     papel: "Product Owner",
     comQuem: "Times de tecnologia e comunicação e mais de 60 unidades",
     historia: [
-      { titulo: "O que construímos", texto: "O sistema de publicação de eventos do portal do Senac São Paulo, para que as unidades publicassem seus eventos com autonomia." }
+      { titulo: "O que construímos", texto: "Até 2018, as unidades do Senac São Paulo mandavam seus eventos por formulário e e-mail, e a equipe do portal redigitava tudo no back end. Herdando um processo parado há 5 anos, me vi como Product Owner, reescrevi com o desenvolvedor a especificação de requisitos de um sistema que estava parado havia anos, testei cada versão em homologação e organizei os retornos de usabilidade e de layout até a aprovação. O rollout foi em fases. Primeiro, as publicações das unidades passavam por uma fila de moderação da equipe do portal. Depois de oficinas de capacitação sobre o sistema e a qualidade dos textos, as mais de 60 unidades passaram a publicar seus eventos direto no site." }
     ],
     resultados: [],
     campanhas: [],
@@ -94,7 +94,7 @@ window.PROJETOS = [
     papel: "Editora de Conteúdo",
     comQuem: "Times de comunicação, produto e tecnologia",
     historia: [
-      { titulo: "O que construímos", texto: "Um guia de linguagem e acessibilidade e as fichas de curso reescritas em linguagem simples." }
+      { titulo: "O que construímos", texto: "As fichas de curso chegavam ao portal direto do sistema educacional, escritas em “senaquês”: o curso de açougueiro, aberto a quem tinha só o ensino fundamental, prometia ensinar a “refilar proteínas animais”. Mediei a negociação entre as gerências de Educação e de Comunicação e propus uma solução na integração entre os dois sistemas. O descritivo técnico, validado nos documentos oficiais, ficou no back end. Um texto em linguagem simples, escrito pela comunicação e aprovado pelo técnico educacional de cada curso, passou a aparecer no site. As vendas de cursos pelo canal digital subiram 22%. Como a troca só acontecia quando uma ficha era atualizada, o portfólio ficou com duas linguagens convivendo, e isso levou à reformulação do portal. Nela, a equipe do portal criou um guia de linguagem e fez uma revisão por amostragem das fichas." }
     ],
     resultados: [
       { valor: "+22%", texto: "nas vendas digitais de cursos" }
