@@ -1,0 +1,140 @@
+/*
+  TEXTOS PUBLICADOS
+  ---------------------------------------------------------------
+  Cada publicação vira uma aba. Para incluir textos do portal do Senac,
+  descomente o bloco "senac" no fim e preencha.
+  ano: "2016" ou "Sem data"   mes: "jan", "fev"... ou ""
+  Os links do Pac Mãe e do Mamíferas abrem a cópia guardada no Web Archive.
+*/
+window.TEXTOS = [
+  {
+    id: "pac", nome: "Pac Mãe",
+    sobre: "Portal de cultura pop e maternidade que fundei com mais três amigas (2013 – 2018). Os textos abaixo são os que o Web Archive guardou com a minha assinatura.",
+    textos: [
+      {"ano": "2017", "mes": "out", "titulo": "Raising Dion: Netflix vai transformar HQ sobre maternidade superpoderosa em série", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/raising-dion-netflix-vai-transformar-hq-sobre-maternidade-superpoderosa-em-serie/"},
+      {"ano": "2017", "mes": "jul", "titulo": "Blog: Entre brinquedos de criança e colecionáveis tem um mundo de ódio", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/blog-entre-brinquedos-de-crianca-e-colecionaveis-tem-um-mundo-de-odio/"},
+      {"ano": "Sem data", "mes": "", "titulo": "Maternidade Real: 5 HQs feitas por mães – e pais – que falam a verdade sobre ter filhos", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/5-hqs-maternidade-real/"},
+      {"ano": "Sem data", "mes": "", "titulo": "Dia da Toalha: 10 maneiras de celebrar o Orgulho Nerd com crianças", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/10-atividades-para-fazer-com-as-criancas-no-dia-da-toalha/"},
+      {"ano": "Sem data", "mes": "", "titulo": "Marvel para Crianças: 10 maneiras de apresentar os personagens passando longe dos filmes", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/marvel-para-criancas-10-maneiras-de-apresentar-os-personagens-passando-longe-dos-filmes/"},
+      {"ano": "2016", "mes": "", "titulo": "Cinema: Devo levar as crianças para assistir Capitão América: Guerra Civil?", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/cinema-devo-levar-as-criancas-para-assistir-capitao-america-guerra-civil/"},
+      {"ano": "2016", "mes": "", "titulo": "Cinema: Posso levar crianças para assistir Batman vs Superman?", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/cinema-posso-levar-criancas-para-assistir-batman-vs-superman/"},
+      {"ano": "2016", "mes": "", "titulo": "Cinema: Zootopia, um roteiro politicamente adulto feito para crianças", "url": "https://web.archive.org/web/*/pacmae.com.br/cinema-zootopia-um-roteiro-politicamente-adulto-feito-para-criancas-e-*"},
+      {"ano": "2016", "mes": "", "titulo": "Cinema: Mogli, O Menino Lobo não é para os tão pequenos", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/cinema-mogli-o-livro-da-selva-nao-e-para-os-tao-pequenos/"},
+      {"ano": "2016", "mes": "", "titulo": "#CPBR9: Mãe palestrante é impedida de entrar com comida para bebê", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/cpbr9-a-papinha-barrada-e-a-sistematica-exclusao-das-maes-dos-eventos-nerds/"},
+      {"ano": "2016", "mes": "", "titulo": "#ForceForStella: Menina de 6 anos sofre bullying por gostar de super-heróis", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/forceforstella-menina-de-6-anos-sofre-bullying-por-gostar-de-super-herois/"},
+      {"ano": "2016", "mes": "", "titulo": "Mattel: Brinquedos de Batman vs. Superman incluem Mulher-Maravilha, mas ainda não incluem meninas", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/brinquedos-mattel-lanca-brinquedos-de-batman-x-superman-para-meninos-e-meninas/"},
+      {"ano": "Sem data", "mes": "", "titulo": "Livros: Simon vs. a Agenda Homo Sapiens", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/livros-simon-vs-agenda-homo-sapiens/"},
+      {"ano": "Sem data", "mes": "", "titulo": "Livros: Porque O Livro Sem Figuras é um dos melhores livros infantis do mundo", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/livros-porque-o-livro-sem-figuras-e-um-dos-melhores-livros-infantis-do-mundo/"},
+      {"ano": "Sem data", "mes": "", "titulo": "Leitura: Iniciativa para incentivar a leitura infantil entrega livros na sua casa", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/leitura-iniciativa-para-incentivar-leitura-infantil-entrega-livros-na-sua-casa/"},
+      {"ano": "Sem data", "mes": "", "titulo": "As Meninas Superpoderosas: Tragam as crianças para a sala", "url": "https://web.archive.org/web/*/pacmae.com.br/as-meninas-superpoderosas-tragam-as-criancas-para-sala-porque-elas-est*"},
+      {"ano": "Sem data", "mes": "", "titulo": "Na Cidade: 5ª Turnê Intrínseca, a editora mais querida do pedaço", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/turne-intrinseca/"},
+      {"ano": "Sem data", "mes": "", "titulo": "Harry Potter: 8 lições importantes que a franquia ensina para crianças", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/harry-potter-8-licoes-importantes-que-franquia-ensinou-uma-geracao/"},
+      {"ano": "Sem data", "mes": "", "titulo": "LEGO: Que horas são? É hora de LEGO da Hora de Aventura", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/lego-que-horas-sao-e-hora-de-lego-da-hora-de-aventura/"},
+      {"ano": "Sem data", "mes": "", "titulo": "Blog: As galochas do Menino Maravilha ou uma lição de empoderamento infantil", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/blog-as-galochas-do-menino-maravilha/"},
+      {"ano": "2015", "mes": "nov", "titulo": "FIQ 2015: Exposição Heróica repensa personagens femininas de quadrinhos", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/fiq-2015-exposicao-heroica-repensa-personagens-femininas-de-quadrinhos"},
+      {"ano": "2015", "mes": "nov", "titulo": "FIQ 2015: 1º Dia, o FIQ da inclusão", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/fiq-2015-1o-dia-o-fiq-da-inclusao/"},
+      {"ano": "2015", "mes": "out", "titulo": "DC: As Super Hero Girls chegaram!", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/dc-as-super-hero-girls-chegaram/"},
+      {"ano": "2015", "mes": "set", "titulo": "News: Menininha feminista explica a admiração pela Princesa Leia em propaganda", "url": "https://web.archive.org/web/*/pacmae.com.br/news-menininha-feminista-explica-a-admiracao-pela-princesa-leia-em-pro*"},
+      {"ano": "2015", "mes": "jul", "titulo": "Minions: Desculpa esfarrapada para não existirem meninas entre os amarelinhos", "url": "https://web.archive.org/web/*/pacmae.com.br/minions-desculpa-esfarrapada-para-nao-existirem-meninas-entre-os-amare*"},
+      {"ano": "2015", "mes": "jun", "titulo": "Blog: Como NÃO falar de amamentação", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/blog-como-nao-falar-de-amamentacao/"},
+      {"ano": "2015", "mes": "", "titulo": "Blog: Sobre o livro infantil de piadas misóginas", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/blog-sobre-o-livro-infantil-de-piadas-misoginas/"},
+      {"ano": "2015", "mes": "", "titulo": "#playlikeahero: Goldieblox lança vídeo substituindo heróis de ação", "url": "https://web.archive.org/web/*/pacmae.com.br/playlikeahero-goldieblox-lanca-video-substituindo-herois-de-acao-por-b*"},
+      {"ano": "2015", "mes": "", "titulo": "Netflix: Programa de 5 minutos para ajudar na negociação com as crianças?", "url": "https://web.archive.org/web/*/pacmae.com.br/netflix-programa-de-5-minutos-para-ajudar-na-negociacao-com-as-criancas*"},
+      {"ano": "2015", "mes": "", "titulo": "Hot Wheels: Chegaram os carrinhos de Star Wars", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/hot-wheels-chegaram-os-carrinhos-de-star-wars/"},
+      {"ano": "2015", "mes": "mar", "titulo": "5 lojas de roupas infantis que redefinem estereótipos", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/5-lojas-de-roupas-infantis-que-redefinem-estereotipos/"},
+      {"ano": "2015", "mes": "mar", "titulo": "Crianças recitam Maya Angelou e Muhammad Ali: Because of Them, We Can", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/criancas-recitam-maya-angelou-e-muhamad-ali-because-of-them-we-can/"},
+      {"ano": "2015", "mes": "mar", "titulo": "Mulheres do Judiciário dos EUA são recriadas em LEGO", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/2015/03/10/mulheres-do-judiciario-dos-eua-sao-recriadas-em-lego/"},
+      {"ano": "2015", "mes": "mar", "titulo": "4ª Turnê Intrínseca: Fomos e amamos", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/2015/03/09/4a-turne-intrinseca-fomos-e-amamos/"},
+      {"ano": "2015", "mes": "mar", "titulo": "A festa de futebol e a segregação de gêneros", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/2015/03/07/festa-futebol-genero/"},
+      {"ano": "2015", "mes": "", "titulo": "Novidades LEGO: Set de Doctor Who e você pode votar nas Mulheres no Judiciário", "url": "https://web.archive.org/web/*/pacmae.com.br/novidades-da-lego-set-de-doctor-who-e-voce-pode-votar-nas-mulheres-no-*"},
+      {"ano": "2015", "mes": "", "titulo": "Cinema: Cinderella, não dá pra acertar todas, né Disney", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/cinderella-nao-da-pra-acertar-todas-ne-disney/"},
+      {"ano": "2015", "mes": "", "titulo": "Publieditorial: Apresentando o Snoopy pras crianças com roupas da Elian", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/apresentando-o-snoopy-pras-criancas-com-roupas-da-elian-publipost/"},
+      {"ano": "2015", "mes": "", "titulo": "Conheça Mell, a menina de 7 anos que quer montar uma biblioteca no sertão", "url": "https://web.archive.org/web/*/pacmae.com.br/conheca-mell-a-menina-de-7-anos-que-quer-montar-uma-biblioteca-no-sert*"},
+      {"ano": "2015", "mes": "", "titulo": "News: Irmãs chamam a atenção de Kirk Hammett e garantem contrato musical", "url": "https://web.archive.org/web/*/pacmae.com.br/os-videos-dessas-irmas-chamaram-a-atencao-de-kirk-hammet-e-garantiram-*"},
+      {"ano": "2015", "mes": "", "titulo": "Games: Menina de 12 anos prova o machismo na indústria", "url": "https://web.archive.org/web/*/pacmae.com.br/menina-de-12-anos-consegue-provar-o-machismo-nos-games-e-desenvolvedor*"},
+      {"ano": "2015", "mes": "", "titulo": "Pequena Gotham: Convertendo uma fã da Marvel", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/pequena-gotham-convertendo-uma-fa-da-marvel/"},
+      {"ano": "2015", "mes": "", "titulo": "Cultura Pop: 10 bons exemplos masculinos para meninos", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/10-bons-exemplos-masculinos-para-meninos/"},
+      {"ano": "2015", "mes": "jan", "titulo": "Panquecas de Toucinho #2: Onigiri de Baymax e Asinhas Picantes", "url": "https://web.archive.org/web/*/pacmae.com.br/panquecas-de-toucinho-2-onigiri-de-baymax-e-asinhas-picantes-da-tia-ca*"},
+      {"ano": "2015", "mes": "jan", "titulo": "Cinema: Operação Big Hero, pode monopolizar que deu certo, Disney!", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/operacao-big-hero-pode-monopolizar-que-deu-certo-disney/"},
+      {"ano": "2014", "mes": "nov", "titulo": "Empoderamento: Wolverine não, WolverinA", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/wolverine-nao-wolverina-uma-historia-de-empoderamento-infantil-e-feminismo-guest-post-por-jessica-totski/"},
+      {"ano": "2014", "mes": "", "titulo": "Pac Mãe na CCXP: Programação para crianças", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/pac-mae-na-ccxp-programacao-para-pequenos/"},
+      {"ano": "2014", "mes": "", "titulo": "Livros: Stan Lee lendo um livro infantil vai tornar seu dia melhor", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/livros-stan-lee-lendo-um-livro-infantil-vai-tornar-seu-dia-melhor/"},
+      {"ano": "2014", "mes": "", "titulo": "Blog: Jogos Vorazes e a redenção pela maternidade", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/jogos-vorazes-e-a-maternidade/"},
+      {"ano": "2014", "mes": "", "titulo": "Brinquedos: Barbie de Jogos Vorazes chega ao Brasil e mostra um dos problemas da franquia", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/brinquedos-barbie-de-jogos-vorazes-chega-ao-brasil/"},
+      {"ano": "2014", "mes": "", "titulo": "Festa: Aniversário Ninjago, os convites ninja", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/festa-ninjago-parte-2-os-convites-ninja/"},
+      {"ano": "2014", "mes": "mai", "titulo": "IAmElemental: Action figures realmente poderosas!", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/iamelemental-action-figures-realmente-poderosas/"},
+      {"ano": "2014", "mes": "fev", "titulo": "A menina de 7 anos que explicou estereótipos de gênero para a LEGO", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/a-menina-de-7-anos-que-explicou-estereotipos-de-genero-para-a-lego/"},
+      {"ano": "2013", "mes": "nov", "titulo": "Ciência: Carl Sagan para crianças", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/carl-sagan-e-a-ciencia-para-criancas/"},
+      {"ano": "2013", "mes": "set", "titulo": "Fantasias: Dicas para uma fantasia de Star Wars, Princesa Leia", "url": "https://web.archive.org/web/2016/http://pacmae.com.br/fantasias-dicas-para-uma-fantasia-de-star-wars-princesa-leia/"}
+    ]
+  },
+  {
+    id: "mam", nome: "Mamíferas",
+    sobre: "Blog coletivo sobre parto, maternidade e gênero, onde fui editora (2011 – 2013). Assinei 126 textos; o Web Archive guardou estes.",
+    textos: [
+      {"ano": "2013", "mes": "mar", "titulo": "Você já conheceu um lugar novo hoje?", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2013/03/voce-ja-conheceu-um-lugar-novo-hoje.html"},
+      {"ano": "2013", "mes": "mar", "titulo": "Falando sobre diferenças", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2013/03/falando-sobre-diferencas.html"},
+      {"ano": "2013", "mes": "mar", "titulo": "Mãe, mulher e tudo o mais e Marco Feliciano NÃO me representa", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2013/03/mae-mulher-e-tudo-o-mais-e-marco-feliciano-nao-me-representa.html"},
+      {"ano": "2013", "mes": "mar", "titulo": "Muito pequena para um parto normal – Será?", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2013/03/muito-pequena-para-um-parto-normal-sera.html"},
+      {"ano": "2013", "mes": "fev", "titulo": "3 coisas que fazem eu me sentir menos mãe", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2013/02/3-coisas-que-fazem-eu-me-sentir-menos-mae.html"},
+      {"ano": "2013", "mes": "jan", "titulo": "A doula, o acompanhante, a infecção e uma escolha", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2013/01/a-doula-o-acompanhante-a-infeccao-e-uma-escolha.html"},
+      {"ano": "2013", "mes": "jan", "titulo": "Sobre o direito de imagem das crianças e como ganhar dinheiro com blog", "url": "https://web.archive.org/web/*/mamiferas.com/blog/2013/01/sobre-o-direito-de-imagem-das-criancas-e-como-ganhar-dinheiro-*"},
+      {"ano": "2013", "mes": "jan", "titulo": "A glamourização da mãe-mártir", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2013/01/a-glamourizacao-da-mae-martir.html"},
+      {"ano": "2013", "mes": "jan", "titulo": "Para amamentar não é preciso pensar", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2013/01/para-amamentar-nao-e-preciso-pensar.html"},
+      {"ano": "2012", "mes": "nov", "titulo": "Ação coletiva de divulgação do vídeo “Violência Obstétrica – A voz das brasileiras”", "url": "https://web.archive.org/web/*/mamiferas.com/blog/2012/11/acao-coletiva-de-divulgacao-do-video-violencia-obstetrica-a-vo*"},
+      {"ano": "2012", "mes": "nov", "titulo": "Sexismo, violência e esperança", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2012/11/sexismo-violencia-e-esperanca.html"},
+      {"ano": "2012", "mes": "nov", "titulo": "Cobrar a mais pelo parto normal faz bem ou mal?", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2012/11/cobrar-a-mais-pelo-parto-normal-faz-bem-ou-mal.html"},
+      {"ano": "2012", "mes": "set", "titulo": "Os 5 estágios pós-desnecesárea", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2012/09/os-5-estagios-pos-desnecesarea.html"},
+      {"ano": "2012", "mes": "ago", "titulo": "Gênero, diferenças e um pai muito bacana", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2012/08/genero-diferencas-e-um-pai-muito-bacana.html"},
+      {"ano": "2012", "mes": "ago", "titulo": "Parir é uma festa e nós somos os anfitriões", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2012/08/parir-e-uma-festa-e-nos-somos-os-anfitrioes.html"},
+      {"ano": "2012", "mes": "jul", "titulo": "Eles também não seguem o Conselho", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2012/07/eles-tambem-nao-seguem-o-conselho.html"},
+      {"ano": "2012", "mes": "mai", "titulo": "O quebra e a cabeça", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2012/05/o-quebra-e-a-cabeca.html"},
+      {"ano": "2012", "mes": "mai", "titulo": "De vez em quando pode?", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2012/05/de-vez-em-quando-pode.html"},
+      {"ano": "2012", "mes": "mar", "titulo": "Médico é pra quem está doente", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2012/03/medico-e-pra-quem-esta-doente.html"},
+      {"ano": "2012", "mes": "fev", "titulo": "Desconexão", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2012/02/desconexao.html"},
+      {"ano": "2012", "mes": "fev", "titulo": "Ecologia: você está fazendo isso errado", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2012/02/ecologia-voce-esta-fazendo-isso-errado.html"},
+      {"ano": "2012", "mes": "jan", "titulo": "Fale sempre com estranhos", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2012/01/fale-sempre-com-estranhos.html"},
+      {"ano": "2011", "mes": "dez", "titulo": "A crença das crianças", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/12/a-crenca-das-criancas.html"},
+      {"ano": "2011", "mes": "dez", "titulo": "A opinião do doutor", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/12/a-opiniao-do-doutor.html"},
+      {"ano": "2011", "mes": "dez", "titulo": "Das ingratidões e lições", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/12/das-ingratidoes-e-licoes.html"},
+      {"ano": "2011", "mes": "dez", "titulo": "O sexo, a cama e o intestino", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/12/o-sexo-a-cama-e-o-intestino.html"},
+      {"ano": "2011", "mes": "dez", "titulo": "Mudanças e opiniões", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/12/mudancas-e-opinioes.html"},
+      {"ano": "2011", "mes": "dez", "titulo": "Não se livre do incômodo", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/12/nao-se-livre-do-incomodo.html"},
+      {"ano": "2011", "mes": "nov", "titulo": "O insustentável peso da internet", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/11/o-insustentavel-peso-da-internet.html"},
+      {"ano": "2011", "mes": "nov", "titulo": "Blogagem coletiva: posts sobre violência contra a mulher no parto", "url": "https://web.archive.org/web/*/mamiferas.com/blog/2011/11/blogagem-coletiva-posts-sobre-violencia-contra-a-mulher-no-par*"},
+      {"ano": "2011", "mes": "nov", "titulo": "Blogagem coletiva: Dia Internacional da Não-Violência Contra a Mulher", "url": "https://web.archive.org/web/*/mamiferas.com/blog/2011/11/blogagem-coletiva-dia-internacional-da-nao-violencia-contra-a-*"},
+      {"ano": "2011", "mes": "out", "titulo": "Processo contínuo", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/10/processo-continuo.html"},
+      {"ano": "2011", "mes": "out", "titulo": "Questão de princípio", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/10/questao-de-principio.html"},
+      {"ano": "2011", "mes": "out", "titulo": "Nossa homenagem", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/10/nossa-homenagem.html"},
+      {"ano": "2011", "mes": "out", "titulo": "É tão fácil ir adiante e esquecer que a coisa toda tá errada", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/10/e-tao-facil-ir-adiante.html"},
+      {"ano": "2011", "mes": "out", "titulo": "Eu também não sei o que fazer", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/10/eu-tambem-nao-sei-o-que-fazer.html"},
+      {"ano": "2011", "mes": "set", "titulo": "Pequeno Dicionário Mamífero: Parte 3", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/09/pequeno-dicionario-parte-3.html"},
+      {"ano": "2011", "mes": "set", "titulo": "É brinquedo de quem?", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/09/e-brinquedo-de-quem.html"},
+      {"ano": "2011", "mes": "set", "titulo": "Orgulho e preconceito", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/09/orgulho-e-preconceito.html"},
+      {"ano": "2011", "mes": "set", "titulo": "De onde vem esse medo?", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/09/de-onde-vem-esse-medo.html"},
+      {"ano": "2011", "mes": "set", "titulo": "Quando o errado se torna certo", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/09/quando-o-errado-se-torna-certo.html"},
+      {"ano": "2011", "mes": "set", "titulo": "Do lado de dentro", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/09/do-lado-de-dentro.html"},
+      {"ano": "2011", "mes": "ago", "titulo": "Vida fácil: Catálogo infantil da Elo7", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/08/vida-facil-catalogo-infantil-da-elo7.html"},
+      {"ano": "2011", "mes": "ago", "titulo": "O garoto de rosa-shocking", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/08/o-garoto-de-rosa-shockin.html"},
+      {"ano": "2011", "mes": "ago", "titulo": "Mãe Y", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/08/mae-y.html"},
+      {"ano": "2011", "mes": "ago", "titulo": "Filho do pai!", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/08/filho-do-pai.html"},
+      {"ano": "2011", "mes": "ago", "titulo": "A day in the life", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/08/a-day-in-the-life.html"},
+      {"ano": "2011", "mes": "ago", "titulo": "Pequeno dicionário mamífero (Parte 1)", "url": "https://web.archive.org/web/2013/http://www.mamiferas.com/blog/2011/08/pequeno-dicionario-mamifer.html"}
+    ]
+  },
+  {
+    id: "conv", nome: "Como convidada",
+    sobre: "Textos publicados em outros sites.",
+    textos: [
+      {"ano": "2018", "mes": "jan", "titulo": "Maternidade e transtornos de personalidade, como conciliar? · Cientista Que Virou Mãe", "url": "https://cientistaqueviroumae.com.br/2018/01/30/maternidade-e-transtornos-de-personalidade/"},
+      {"ano": "2017", "mes": "out", "titulo": "Mães. Formação? A vida · Cientista Que Virou Mãe", "url": "https://cientistaqueviroumae.com.br/2017/10/04/maes-formacao-a-vida/"}
+    ]
+  }
+  // ,{
+  //   id: "senac", nome: "Portal Senac",
+  //   sobre: "Reportagens e coberturas para o portal do Senac São Paulo (2016 – 2019).",
+  //   textos: [
+  //     {"ano": "2017", "mes": "", "titulo": "Título da matéria", "url": "https://..."}
+  //   ]
+  // }
+];
