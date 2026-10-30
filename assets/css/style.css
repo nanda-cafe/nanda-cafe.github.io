@@ -203,6 +203,8 @@ details.campanha>summary strong{display:block;font-size:19px}
 details.campanha>summary span{font-size:14px;color:var(--texto-2)}
 .embeds{display:flex;gap:14px;overflow-x:auto;padding:4px 0 18px;scroll-snap-type:x mandatory}
 .embeds>*{flex:none;scroll-snap-align:start}
+.ver-mais{align-self:center;min-height:44px;padding:12px 20px;border:2px solid var(--rosa);border-radius:999px;background:var(--branco);color:var(--rosa-escuro);font:inherit;font-weight:800;cursor:pointer}
+.ver-mais:hover{background:var(--rosa-bloco)}
 .embed{border:0;border-radius:14px;background:#fafafa}
 .embed.instagram{width:328px;height:560px}
 .embed.tiktok{width:325px;height:740px}
