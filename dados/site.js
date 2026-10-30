@@ -8,8 +8,8 @@ window.SITE = {
   nome: "Nanda Café",
   nomeCompleto: "Fernanda Andrade Café",
   rotulo: "Gerente de projetos · Comunicação digital · Maceió, AL",
-  titulo: "Oi, eu sou a Nanda Café. E eu não faço nada sozinha.",
-  subtitulo: "Jornalista e gerente de projetos. Há 15 anos construo, junto com muita gente, projetos de comunicação e tecnologia.",
+  titulo: "Oi, eu sou a Nanda Café.",
+  subtitulo: "Estou há 15 anos construindo coletivamente projetos de comunicação e tecnologia.",
 
   contato: {
     email: "nandacafe@gmail.com",
@@ -30,9 +30,9 @@ window.SITE = {
   // Cada parágrafo da biografia é um item da lista.
   bio: [
     "Sou jornalista formada pela Universidade Federal de Alagoas e moro em Maceió. Engravidei no meio da graduação, e foi a maternidade que me levou para a internet: em 2011 virei editora do Mamíferas, um blog coletivo sobre parto e maternidade, e em 2012 elaborei, com outras duas blogueiras, o Teste da Violência Obstétrica, que circulou em 74 blogs. Em 2013, fundei com mais três amigas o Pac Mãe, sobre cultura pop e infância.",
-    "Ao mesmo tempo, aprendi comunicação pública na Secretaria do Meio Ambiente e dos Recursos Hídricos de Alagoas, onde criei os primeiros perfis do órgão nas redes. Em 2016 fui para o Senac São Paulo, primeiro escrevendo para o portal, depois cuidando das redes da sede e de projetos de sistemas. Foi ali que virei ponte entre comunicação e tecnologia.",
-    "Desde 2022 estou na BYOUNG, onde hoje coordeno a estratégia digital da Huawei Mobile Brasil. Em 2026, esse trabalho recebeu o prêmio individual da Huawei na América Latina.",
-    "O que liga tudo isso é a crença na construção coletiva. Nunca fiz nada sozinha, e o que mais ouço sobre a minha gestão é que dou autonomia e suporte para que as pessoas cresçam com liberdade e responsabilidade."
+    "Ao mesmo tempo, aprendi comunicação pública na Secretaria do Meio Ambiente e dos Recursos Hídricos de Alagoas, onde criei os primeiros perfis do órgão nas redes sociais. Em 2016 fui para o Senac São Paulo, primeiro escrevendo para o portal, depois cuidando das redes da sede e de projetos de sistemas. Foi ali que virei ponte entre comunicação e tecnologia.",
+    "Desde 2022 estou na BYOUNG, onde hoje coordeno a estratégia digital da Huawei Mobile Brasil. Em 2026, esse trabalho recebeu o prêmio individual de destaque e o prêmio de fornecedor de destaque da Huawei na América Latina.",
+    "O que liga tudo isso é a crença na construção coletiva. Nunca fiz nada sozinha, e acredito que uma boa gestão é garantir autonomia e suporte para que as pessoas cresçam com liberdade e responsabilidade."
   ],
 
   // Grandes marcos da home. A trajetória completa fica em dados/trajetoria.js
