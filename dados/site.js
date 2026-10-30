@@ -29,10 +29,10 @@ window.SITE = {
 
   // Cada parágrafo da biografia é um item da lista.
   bio: [
-    "Sou jornalista formada pela Universidade Federal de Alagoas e moro em Maceió. Engravidei no meio da graduação, e foi a maternidade que me levou para a internet: em 2011 virei editora do Mamíferas, um blog coletivo sobre parto e maternidade, e em 2012 elaborei, com outras duas blogueiras, o Teste da Violência Obstétrica, que circulou em 74 blogs. Em 2013, fundei com mais três amigas o Pac Mãe, sobre cultura pop e infância.",
-    "Ao mesmo tempo, aprendi comunicação pública na Secretaria do Meio Ambiente e dos Recursos Hídricos de Alagoas, onde criei os primeiros perfis do órgão nas redes sociais. Em 2016 fui para o Senac São Paulo, primeiro escrevendo para o portal, depois cuidando das redes da sede e de projetos de sistemas. Foi ali que virei ponte entre comunicação e tecnologia.",
-    "Desde 2022 estou na BYOUNG, onde hoje coordeno a estratégia digital da Huawei Mobile Brasil. Em 2026, esse trabalho recebeu o prêmio individual de destaque e o prêmio de fornecedor de destaque da Huawei na América Latina.",
-    "O que liga tudo isso é a crença na construção coletiva. Nunca fiz nada sozinha, e acredito que uma boa gestão é garantir autonomia e suporte para que as pessoas cresçam com liberdade e responsabilidade."
+    "Sou jornalista formada pela Universidade Federal de Alagoas e trabalho há 15 anos na ponte entre comunicação e tecnologia. Comecei em 2011, editando blogs coletivos que chegaram a 3,5 milhões de acessos únicos, e aprendi comunicação pública na Secretaria do Meio Ambiente e dos Recursos Hídricos de Alagoas, onde criei os primeiros perfis do órgão nas redes.",
+    "No Senac São Paulo, de 2016 a 2022, passei de editora de conteúdo do portal a responsável pelas redes da sede e por mais de 150 perfis das unidades. Fui Product Owner do sistema que deu a mais de 60 unidades autonomia para publicar seus eventos no portal. Também liderei a integração que levou as fichas de curso para uma linguagem simples, com 22% a mais de vendas no canal digital, e participei da migração de CMS do portal.",
+    "Desde 2022 estou na BYOUNG. Coordenei a estratégia trilíngue da CleverTap para o Brasil e a América Latina e hoje sou Gerente de Estratégia Digital da Huawei Mobile Brasil, com uma equipe de 10 pessoas. Em três anos, as campanhas de influência passaram de 78 para 230 parcerias por ano, abrimos o TikTok da marca do zero até 100 mil seguidores e criamos um clube no Strava com 30 mil membros em seis meses. Em 2026, esse trabalho recebeu o prêmio individual da Huawei na América Latina.",
+    "Meu jeito de gerir é coletivo: processo claro, papéis definidos e autonomia para que cada pessoa cresça com liberdade e responsabilidade. É o que me permite escalar projetos sem perder qualidade."
   ],
 
   // Grandes marcos da home. A trajetória completa fica em dados/trajetoria.js
