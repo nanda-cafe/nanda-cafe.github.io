@@ -60,7 +60,7 @@ window.SITE = {
     "Universitat d’Estiu de Gandía · Universitat de València · 2008",
     // CONFIRMAR: o currículo diz concluída em 2019, o Lattes diz interrompida.
     "Especialização em Ciências do Consumo e Estratégias Aplicadas · Centro Universitário Senac",
-    "Mestrado em Comunicação · UNIP · bolsista CNPq · interrompido"
+    "Mestrado em Comunicação · UNIP · bolsista PROSUP/CAPES · interrompido"
   ],
 
   idiomas: "Inglês fluente (IELTS 8,0) · Espanhol intermediário · Mandarim básico (HSK 1)"

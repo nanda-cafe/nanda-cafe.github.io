@@ -11,7 +11,7 @@ window.TRAJETORIA = [
   { ano: 2026, tipo: "Educação", quando: "2026", titulo: "HSK 1 em mandarim", texto: "", foto: "" },
   { ano: 2024, tipo: "Palcos", quando: "2024", titulo: "Palestrante no RD Summit", texto: "Case Huawei × TikTok Creative Exchange.", foto: "" },
   { ano: 2023, tipo: "Trabalho", quando: "2023 – hoje", titulo: "Gerente de Estratégia Digital · BYOUNG", texto: "Conta Huawei Mobile Brasil e supervisão de contas como GS1, Nuvemshop, CleverTap, Plarium, WinZO, History Channel, Universal+, Dentsply Sirona, Bioré e ETEX.", foto: "" },
-  { ano: 2023, tipo: "Educação", quando: "interrompido", titulo: "Mestrado em Comunicação · UNIP", texto: "Bolsista CNPq.", foto: "" },
+  { ano: 2023, tipo: "Educação", quando: "interrompido", titulo: "Mestrado em Comunicação · UNIP", texto: "Bolsista PROSUP/CAPES.", foto: "" },
   { ano: 2023, tipo: "Cursos", quando: "2023", titulo: "Workshop Marketing Humanizado · Liliane Ferrari", texto: "", foto: "" },
   { ano: 2022, tipo: "Trabalho", quando: "2022 – 2023", titulo: "Coordenadora de Projeto · BYOUNG", texto: "Estratégia trilíngue da CleverTap para Brasil e América Latina.", foto: "" },
   { ano: 2021, tipo: "Trabalho", quando: "2021 – 2022", titulo: "Redação · Senac São Paulo", texto: "Textos para os portfólios de Comunicação Corporativa e Graduação.", foto: "" },
