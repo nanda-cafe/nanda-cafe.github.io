@@ -43,37 +43,8 @@ window.PROJETOS = [
       { valor: "1º dia", texto: "estoque promocional do FreeClip 2 esgotado, com +1.500% na procura" },
       { valor: "+350%", texto: "de interesse pela linha HUAWEI Watch (2024 – 2026)" }
     ],
-    campanhas: [
-      { titulo: "WATCH GT 6", descricao: "2025 · creators de ciclismo e corrida", embeds: [
-        { tipo: "instagram", codigo: "DPpNfUwjTs6" }, { tipo: "instagram", codigo: "DPzhzdSjQwU" },
-        { tipo: "instagram", codigo: "DPRHv3JkTop" }, { tipo: "instagram", codigo: "DPoTByVkV-s" },
-        { tipo: "instagram", codigo: "DPoMFllDtAF" }, { tipo: "instagram", codigo: "DPSCE6cka3B" },
-        { tipo: "instagram", codigo: "DPRWMrTDXY4" }, { tipo: "instagram", codigo: "DPyv_P5DXMS" },
-        { tipo: "instagram", codigo: "DOzFTr3j7Hj" }, { tipo: "instagram", codigo: "DO9bvW5D5Xn" },
-        { tipo: "instagram", codigo: "DPM1JlViT5U" }, { tipo: "instagram", codigo: "DPkCvJOEiFF" },
-        { tipo: "instagram", codigo: "DPUjkz-CJu8" },
-        { tipo: "tiktok", codigo: "7559608646620024075" }, { tipo: "tiktok", codigo: "7560778786871053579" }
-      ] },
-      { titulo: "Pop-up Store São Paulo", descricao: "2025", embeds: [
-        { tipo: "instagram", codigo: "DNBJVJ4sOBP" }, { tipo: "instagram", codigo: "DNL6G2OBj1l" },
-        { tipo: "instagram", codigo: "DNLkg3CNw49" }, { tipo: "instagram", codigo: "DNMMr8Su5hp" },
-        { tipo: "tiktok", codigo: "7535164943260257592" }, { tipo: "tiktok", codigo: "7532985948901051654" },
-        { tipo: "tiktok", codigo: "7536335702062140728" }, { tipo: "tiktok", codigo: "7537041182879206662" },
-        { tipo: "tiktok", codigo: "7537035587702820102" }
-      ] },
-      { titulo: "PURA 80", descricao: "2025 · lançamento e casting de fotógrafos", embeds: [
-        { tipo: "instagram", codigo: "DPw2egKjThH" }, { tipo: "instagram", codigo: "DP41tACD7Ho" },
-        { tipo: "instagram", codigo: "DQC4UtwAbCk" }, { tipo: "instagram", codigo: "DP_-zMWDjfV" },
-        { tipo: "instagram", codigo: "DP7SCPwj3zD" }, { tipo: "instagram", codigo: "DPeiTblj_FI" },
-        { tipo: "instagram", codigo: "DObCeKljzgD" }, { tipo: "instagram", codigo: "DQFexpkDaiN" },
-        { tipo: "instagram", codigo: "DOoMNEeE0xY" }
-      ] },
-      { titulo: "Active Rings Rio de Janeiro", descricao: "2025 · casting", embeds: [
-        { tipo: "instagram", codigo: "DNWjcasuJ3V" }, { tipo: "instagram", codigo: "DNTw8vTgRix" },
-        { tipo: "instagram", codigo: "DNB7ShNO3iL" }
-      ] }
-      // Para incluir GT 7, FreeClip 2 S, Maratona de SP etc., copie um bloco acima e cole os códigos dos posts.
-    ],
+    // As campanhas e os posts ficam em dados/campanhas-huawei.js
+    campanhas: window.CAMPANHAS_HUAWEI || [],
     materiais: []
   },
   {
