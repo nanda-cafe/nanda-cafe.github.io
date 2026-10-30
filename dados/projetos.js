@@ -37,6 +37,7 @@ window.PROJETOS = [
       { titulo: "Como trabalhamos", texto: "Uma equipe de 10 pessoas trabalhando junto com agências de talentos, creators e marketplaces. Em 2026, esse trabalho recebeu o prêmio Outstanding Individual da Huawei na América Latina." }
     ],
     resultados: [
+      { valor: "78 → 230", texto: "parcerias com creators por ano entre 2024 e 2026, com o mesmo modelo de gestão" },
       { valor: "+126%", texto: "de crescimento da base no Instagram" },
       { valor: "0 → 100 mil", texto: "seguidores no TikTok em 2024" },
       { valor: "30 mil", texto: "membros no clube do Strava em 6 meses" },
