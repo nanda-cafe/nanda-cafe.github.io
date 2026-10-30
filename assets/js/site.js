@@ -134,8 +134,20 @@
     // embeds só carregam quando a campanha é aberta
     document.querySelectorAll("details.campanha").forEach(function (d) {
       var box = d.querySelector(".embeds");
+      var todos = p.campanhas[+box.dataset.embeds].embeds || [], LOTE = 12;
+      var mais = function () {
+        var feitos = +(box.dataset.feitos || 0), lote = todos.slice(feitos, feitos + LOTE);
+        var antigo = box.querySelector(".ver-mais"); if (antigo) antigo.remove();
+        box.insertAdjacentHTML("beforeend", lote.map(embed).join(""));
+        box.dataset.feitos = feitos + lote.length;
+        var faltam = todos.length - (feitos + lote.length);
+        if (faltam > 0) {
+          box.insertAdjacentHTML("beforeend", '<button type="button" class="ver-mais">Ver mais posts (faltam ' + faltam + ")</button>");
+          box.querySelector(".ver-mais").addEventListener("click", mais);
+        }
+      };
       var carregar = function () {
-        if (d.open && !box.dataset.ok) { box.dataset.ok = 1; box.innerHTML = p.campanhas[+box.dataset.embeds].embeds.map(embed).join(""); }
+        if (d.open && !box.dataset.ok) { box.dataset.ok = 1; mais(); }
       };
       d.addEventListener("toggle", carregar);
       carregar();
